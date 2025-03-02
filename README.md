@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a second-year student at the Indian Institute of Technology, Bhubaneswar, majoring in electrical engineering.<br>With a fervent passion for coding, especially in the fields of data science and machine learning, where I hope to contribute and create.<br>
+I am a third year student at the Indian Institute of Technology, Bhubaneswar, majoring in electrical engineering.<br>With a fervent passion for coding, especially in the fields of data science and machine learning, where I hope to contribute and create.<br>
 
 
 ## 🌐 Socials:
